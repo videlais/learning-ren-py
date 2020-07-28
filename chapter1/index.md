@@ -1,6 +1,6 @@
-# Downloading and Installing
+# Chapter 1: Downloading and Installing
 
-- [Downloading and Installing](#downloading-and-installing)
+- [Chapter 1: Downloading and Installing](#chapter-1-downloading-and-installing)
   - [Downloading](#downloading)
   - [Configuring Editors](#configuring-editors)
 

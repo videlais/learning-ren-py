@@ -1,6 +1,6 @@
-# Understanding Narration
+# Chapter 2: Understanding Narration
 
-- [Understanding Narration](#understanding-narration)
+- [Chapter 2: Understanding Narration](#chapter-2-understanding-narration)
   - [Playing *The Question*](#playing-the-question)
     - [Main Menu](#main-menu)
     - [Playing a Visual Novel](#playing-a-visual-novel)
@@ -13,7 +13,7 @@
   - [Narration and Characters](#narration-and-characters)
     - [Narration](#narration)
     - [Characters](#characters)
-  - [Reviewing Terms](#reviewing-terms)
+  - [Reviewing Concepts](#reviewing-concepts)
     - [Ren'Py Terms](#renpy-terms)
     - [Programming Terms](#programming-terms)
 
@@ -292,7 +292,7 @@ m "Good..."
 
 In Ren'Py, what the player sees will be split up between narration and characters speaking. When a string appears by itself, it will be narration. When a character speaks, the variable representing that character will appear before the lines associated with it.
 
-## Reviewing Terms
+## Reviewing Concepts
 
 ### Ren'Py Terms
 
