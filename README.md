@@ -14,7 +14,7 @@ Welcome to *Learning Ren'Py*!
 - [Chapter 1: Downloading and Installing](./chapter1/index.md)
 - [Chapter 2: Understanding Narration](./chapter2/index.md)
 - [Chapter 3: Creating and Editing Characters](./chapter3/index.md)
-- Chapter 4: Scene Management
+- [Chapter 4: Scene Management](./chapter4/index.md)
 - Example: First Date
 
 ### Advanced Usage
