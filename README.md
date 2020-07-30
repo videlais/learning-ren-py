@@ -15,13 +15,13 @@ Welcome to *Learning Ren'Py*!
 - [Chapter 2: Understanding Narration](./chapter2/index.md)
 - [Chapter 3: Creating and Editing Characters](./chapter3/index.md)
 - [Chapter 4: Scene Management](./chapter4/index.md)
-- Example: First Date
+- [Example: First Date](./examples/firstdate/index.md)
 
 ### Advanced Usage
 
-- Chapter 5: Menus and Labels
+- Chapter 5: Transitions
 - Chapter 6: Variables and Conditionals
-- Chapter 7: Transitions
+- Chapter 7: Audio
 - Chapter 8: Building
 - Example: Beach Vacation
 
