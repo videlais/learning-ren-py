@@ -19,7 +19,7 @@ Welcome to *Learning Ren'Py*!
 
 ### Advanced Usage
 
-- Chapter 5: Transitions
+- [Chapter 5: Transitions](./chapter5/index.md)
 - Chapter 6: Variables and Conditionals
 - Chapter 7: Audio
 - Chapter 8: Building
