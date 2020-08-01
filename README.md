@@ -21,7 +21,7 @@ Welcome to *Learning Ren'Py*!
 
 - [Chapter 5: Transitions](./chapter5/index.md)
 - [Chapter 6: Variables and Conditionals](./chapter6/index.md)
-- Chapter 7: Audio
+- [Chapter 7: Audio](./chapter7/index.md)
 - Chapter 8: Building
 - Example: Beach Vacation
 
@@ -44,7 +44,7 @@ Welcome to *Learning Ren'Py*!
 ### Ren'Py + Python
 
 - Chapter 17: Setting and Using Variables
-- Chapter 28: Python Blocks
+- Chapter 18: Python Blocks
 - Chapter 19: User-Defined Objects
 - Chapter 20: Custom Text Tags
 - Example: Chat! Chat!
