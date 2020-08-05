@@ -22,31 +22,23 @@ Welcome to *Learning Ren'Py*!
 - [Chapter 5: Transitions](./chapter5/index.md)
 - [Chapter 6: Variables and Conditionals](./chapter6/index.md)
 - [Chapter 7: Audio](./chapter7/index.md)
-- Chapter 8: Building
+- [Chapter 8: Building](./chapter8/index.md)
 - Example: Beach Vacation
 
 ### Screen Language
 
-- Chapter 9: Introducing Screen Language
-- Chapter 10: Positions
-- Chapter 11: Animation and Transformation Language
-- Chapter 12: Text and Button
+- [Chapter 9: Screens and Screen Language](./chapter9/index.md)
+- Chapter 10: Screen Language: Containers and Arrangements
+- Chapter 11: Screen Language: Interactions
+- Chapter 12: Screen Language: Actions and Control Statements
 - Example: Library Symphony
-
-### Customizing
-
-- Chapter 13: Bar and VBar
-- Chapter 14: Textbutton and Imagebutton
-- Chapter 15: Input, Key, and Mousearea
-- Chapter 16: Editing and Replacing Defaults Values
-- Example: Bounded in a Nutshell
 
 ### Ren'Py + Python
 
-- Chapter 17: Setting and Using Variables
-- Chapter 18: Python Blocks
-- Chapter 19: User-Defined Objects
-- Chapter 20: Custom Text Tags
+- Chapter 13: Ren'Py Functions
+- Chapter 14: Python Blocks
+- Chapter 15: Screen Functions
+- Chapter 16: Defining Displayables
 - Example: Chat! Chat!
 
 ## Version
