@@ -30,6 +30,12 @@
     - [`xalign` and `yalign`](#xalign-and-yalign)
     - [`xmaximum` and `ymaximum`](#xmaximum-and-ymaximum)
     - [`xfill`and `yfill`](#xfilland-yfill)
+  - [Common Style Properties](#common-style-properties)
+    - [`at`](#at)
+    - [`id`](#id)
+    - [`style`](#style)
+    - [`style_prefix`](#style_prefix)
+    - [`style_suffix`](#style_suffix)
   - [Reviewing Concepts](#reviewing-concepts)
 
 ---
@@ -397,6 +403,34 @@ screen example():
 ```
 
 The keywords `xfill` and `yfill` sets if the displayable should extend to fill the horizontal or vertical space. If `True`, it will extend. If `False`, it will not. `xfill` and `yfill` will only work on displayables that can change shape.
+
+## Common Style Properties
+
+### `at`
+
+The `at` keyword applies a transform, a list of transformations, or keywords to create a transforms as defined in the Animation and Transformation Language (ATL) language in Ren'Py.
+
+### `id`
+
+All interactable screen language keywords can have their own `id`. This must be a **String** value and must, therefore, be enclosed in quotation marks.
+
+### `style`
+
+The keyword `style` keyword specifies which built-in or defined style should be applied to the displayable.
+
+> The built-in styles included with the visual novel are defined in the `screens.rpy` file. These include styles like "input" and "button" that define the default presentation for the built-in displayables in Ren'Py.
+
+### `style_prefix`
+
+The keyword `style_prefix` defines the prefix to be applied to the existing or defined `style` of the displayable. For example, if the style "pref_vbox" is defined and the keyword `vbox` is used with the `style_prefix` "pref", that built-in style would be used.
+
+The style prefix is applied to both the displayable *and* all of its children.
+
+### `style_suffix`
+
+The keyword `style_suffix` defines the suffix to be applied to the existing `style` and `style_prefix` of the displayable. In the case of the `style` "vbox", the `style_prefix` "pref", and `style_suffix` is "button", the combined name would be "pref_vbox_button".
+
+The style suffix is only applied to the displayable and *not* its children.
 
 ## Reviewing Concepts
 

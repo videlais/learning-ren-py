@@ -29,7 +29,7 @@ Welcome to *Learning Ren'Py*!
 
 - [Chapter 9: Screens and Screen Language](./chapter9/index.md)
 - [Chapter 10: Screen Language: Containers and Arrangements](./chapter10/index.md)
-- Chapter 11: Screen Language: Interactions
+- [Chapter 11: Screen Language: Interactions](./chapter11/index.md)
 - Chapter 12: Screen Language: Actions and Control Statements
 - Example: Library Symphony
 
